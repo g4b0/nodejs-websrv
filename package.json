@@ -1,0 +1,16 @@
+{
+  "name": "WebSrv",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "g4b0",
+  "contributors": [],
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
+}
